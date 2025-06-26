@@ -4,6 +4,14 @@
     background-color: var(--background-primary);
   }
 
+  .accountProfileCard__1fed1 {
+    background-color: var(--background-secondary);
+
+    .background__1fed1, .fieldList__1fed1, .badgeList__1fed1 {
+      background-color: var(--background-primary);
+    }
+  }
+
   .sidebarRegionScroller__23e6b, //sidebar
   .cardPrimary__73069, //Account standing
   .vc-addon-card, //vencord plugins
@@ -16,7 +24,9 @@
   }
 
   .connectionHeader_c7f964, //connections header
-  .headerV2__50a54 {
+  .headerV2__50a54,
+  .row__0624f // Family centre stuff
+  {
     background-color: var(--background-secondary-alt);
   }
 
@@ -30,6 +40,34 @@
 
     &.checked__87bf1 {
       background-color: var(--background-accent) !important;
+    }
+  }
+
+  // Security keys
+  .credentialItem__6c75d {
+    background-color: var(--background-secondary);
+  }
+
+  .premiumBackground__65c15 {
+    background-color: var(--background-secondary);
+  }
+
+  //channel settings
+  .contentColumn__23e6b {
+    .folderHeader__1a4ef, .roleMemberList__1a4ef {
+      background-color: var(--background-secondary);
+    }
+
+    .scroller__53543 {
+      background-color: var(--background-primary);
+    }
+
+    .group__344e6 > .item__344e6:not(.selected__344e6) {
+      background-color: var(--background-secondary);
+    }
+
+    .group__344e6 > .item__344e6.selected__344e6 {
+      background-color: var(--background-tertiary);
     }
   }
 }
