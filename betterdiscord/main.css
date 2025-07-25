@@ -762,6 +762,14 @@
 :root .chat_f75fb0 .pageBody__41ed7 .profileCard__5d7c9 {
   background-color: var(--background-secondary);
 }
+:root .chat_f75fb0 .content_f75fb0 .upsellPreview_d9161f,
+:root .chat_f75fb0 .pageBody__41ed7 .upsellPreview_d9161f {
+  background-color: var(--background-tertiary);
+}
+:root .chat_f75fb0 .content_f75fb0 .upsellPreview_d9161f .previewListItem_d9161f.selected_d9161f,
+:root .chat_f75fb0 .pageBody__41ed7 .upsellPreview_d9161f .previewListItem_d9161f.selected_d9161f {
+  background-color: var(--background-primary);
+}
 :root .chat_f75fb0 .header__0b563 {
   background-color: var(--background-secondary) !important;
 }
