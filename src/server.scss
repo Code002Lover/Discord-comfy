@@ -21,6 +21,14 @@
       .profileCard__5d7c9 {
         background-color: var(--background-secondary);
       }
+
+      .upsellPreview_d9161f {
+        background-color: var(--background-tertiary);
+
+        .previewListItem_d9161f.selected_d9161f {
+          background-color: var(--background-primary);
+        }
+      }
     }
 
     // Header of Channels & Roles
