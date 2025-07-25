@@ -6,12 +6,12 @@
 
 ### Using url
 replace the theme url with this url<br>
-`https://metro420yt.github.io/Discord-comfy/comfy.theme.css`<br><br>
+`https://code002lover.github.io/Discord-comfy/comfy.theme.css`<br><br>
 
 ### Installed Locally
 replace `https://comfy-themes.github.io/Discord/betterdiscord/main.css`<br>
 
-with `https://metro420yt.github.io/Discord-comfy/main.css`<br>
+with `https://code002lover.github.io/Discord-comfy/main.css`<br>
 </details>
 
 ---
@@ -28,9 +28,9 @@ with `https://metro420yt.github.io/Discord-comfy/main.css`<br>
 
   <br/>
 
-  <a href="https://gibbu.github.io/ThemePreview/?file=https://metro420yt.github.io/Discord-comfy/comfy.theme.css"><strong>» Theme Preview</strong></a>
+  <a href="https://gibbu.github.io/ThemePreview/?file=https://code002lover.github.io/Discord-comfy/comfy.theme.css"><strong>» Theme Preview</strong></a>
   ・
-  <a href="https://github.com/Metro420yt/Discord-comfy/issues">Report an issue</a>
+  <a href="https://github.com/code002lover/Discord-comfy/issues">Report an issue</a>
   ・
   <a href="https://discord.gg/comfy-camp-811203761619337259">Join the support server</a>
 </div>
@@ -42,14 +42,14 @@ with `https://metro420yt.github.io/Discord-comfy/main.css`<br>
 <div align="left">
     <img align="left" src="https://i.imgur.com/LPH05EO.png" alt="BetterDiscord" width="45" height="45">
     <b><p align="left">BetterDiscord</b>
-    <br/>Open Settings > Themes > Themes folder and copy the file downloaded <a href="https://metro420yt.github.io/Discord-comfy/comfy.theme.css">here</a></p>
+    <br/>Open Settings > Themes > Themes folder and copy the file downloaded <a href="https://code002lover.github.io/Discord-comfy/comfy.theme.css">here</a></p>
 </div>
 
 <div align="left">
     <img align="left" src="https://i.imgur.com/fXYKU5q.png" alt="Vencord" width="45" height="45">
     <b><p align="left">Vencord</b>
     <br/>Copy <code>https://metro420yt.github.io/Discord-comfy/comfy.theme.css</code> into the box in Settings > Themes > Online Themes tab
-    <br/>Or upload the file downloaded <a href="https://metro420yt.github.io/Discord-comfy/comfy.theme.css">here</a> by clicking Upload Theme in Settings > Themes > Local Themes tab</p>
+    <br/>Or upload the file downloaded <a href="https://code002lover.github.io/Discord-comfy/comfy.theme.css">here</a> by clicking Upload Theme in Settings > Themes > Local Themes tab</p>
 </div><br/>
 
 ## 🖌️ Customization

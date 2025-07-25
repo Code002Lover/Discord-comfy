@@ -1,13 +1,13 @@
 /**
 * @name Comfy Fork
-* @author Nyria#3863, metro420yt
+* @author Nyria#3863, metro420yt, Code002Lover
 * @description Stay comfy while talking to your friends
 * @version 2.5.0
 * @invite rtBQX5D3bD
-* @website https://github.com/Metro420yt/Discord-comfy
+* @website https://github.com/Code002Lover/Discord-comfy
 */
 
-@import "https://metro420yt.github.io/Discord-comfy/main.css";
+@import "https://code002lover.github.io/Discord-comfy/main.css";
 
 /* ═══════『 ⚠️・Important tips 』═══════
 *   ➥ To comment or uncomment a line you need to put those "/" and "*" characters at the beginning and ending of comments.
@@ -19,13 +19,13 @@
 */
 
 /* ═══════『 🚫 ・ No scrollbars 』- Comment the line below if you want the scrollbar back */
-@import "https://metro420yt.github.io/Discord-comfy/no-scrollbar.css";
+@import "https://code002lover.github.io/Discord-comfy/no-scrollbar.css";
 
 /* ═══════『 🎵 ・ Better SpotifyControls seek bar 』- Comment the line below if you don't want this spotify bar */
-@import "https://metro420yt.github.io/Discord-comfy/better-spotify.css";
+@import "https://code002lover.github.io/Discord-comfy/better-spotify.css";
 
 /* ═══════『 🎵 ・ Vencord Spotify Plugin 』- Comment the line below if you don't want this spotify bar FOR VENCORD */
-@import "https://metro420yt.github.io/Discord-comfy/vencord-spotify.css";
+@import "https://code002lover.github.io/Discord-comfy/vencord-spotify.css";
 
 :root {
   /* Main Theme Colors */
