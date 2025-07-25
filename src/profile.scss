@@ -13,14 +13,14 @@
     }
 
     .inner_ab8609, //add status
-  .outer_ab8609 //add status bubbles
+    .outer_ab8609 //add status bubbles
     {
       background-color: var(--background-secondary);
     }
 
     // actions
     .wrapper_da5890 {
-      top: -16px;
+      top: -32px;
       margin: 1px 6px;
       transform: scale(0.9);
       right: 6px;
@@ -32,8 +32,78 @@
     }
   }
 
+  .user-profile-modal {
+    .wrapper_da5890 {
+      top: 16px;
+    }
+  }
+
   // sections
   .overlay_c0bea0 {
     background-color: var(--background-secondary-alt);
+  }
+
+  .user-profile-popout {
+    :where(.avatar__75742) {
+      top: 10px;
+    }
+
+    .usernameRow__63ed3 {
+      position: absolute;
+      z-index: 9999;
+      top: -130px;
+      left: 120px;
+      display: block;
+
+      .nicknameIcons__63ed3 {
+        display: none; //TODO: fix nickname icons
+      }
+
+      .nickname__63ed3 {
+        font-size: clamp(0.7vw, 20px, 1vw);
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        overflow: hidden;
+      }
+    }
+
+    .container__8061a {
+      position: absolute;
+      z-index: 9999;
+      top: -90px;
+      left: 120px;
+    }
+
+    div.body__5be3e.thin_d125d2.scrollerBase_d125d2.fade_d125d2 {
+      top: -10px;
+      overflow: visible !important;
+
+      background-color: var(--background-secondary);
+      margin: 10px 10px;
+      border-radius: 10px;
+    }
+
+    .container_ab8609 {
+      top: calc(var(--custom-user-profile-banner-height) + 3px);
+      left: 10px;
+
+      ::before,
+      ::after {
+        display: none;
+      }
+    }
+
+    .outer_ab8609 {
+      border-radius: 10px;
+      width: fit-content;
+      max-width: none;
+      margin-right: 10px;
+      margin-bottom: 8px;
+      box-sizing: unset;
+
+      .inner_ab8609 {
+        padding: 8px 8px 8px 12px;
+      }
+    }
   }
 }

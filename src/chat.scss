@@ -79,18 +79,31 @@
     --divider-color: var(--unread-divider-color, var(--unread-color));
   }
 
-  // fourm
+  // Be the first to start the conversation!
+  .container__93db4 {
+    background-color: var(--background-secondary);
+  }
+
+  // forum
   .container_f369db {
     background-color: var(--background-primary);
 
     // create post
-    .headerRow_f369db .header_f369db {
+    .headerRow_f369db .header_f369db, .channelTextAreaInner_d9be46 {
       background-color: var(--background-secondary-alt);
     }
 
     // card
-    .card_f369db .container_faa96b {
+    .mainCard_f369db {
       background-color: var(--background-secondary);
+    }
+
+    .contentPreview__9a337 {
+      background-color: var(--background-primary);
+
+      .textContentFooter__9a337 {
+        background: linear-gradient(to top,hsl(var(--background-primary)/1),hsl(var(--background-primary)/.97) 36px,hsl(var(--background-primary)/.4))
+      }
     }
   }
 
@@ -310,6 +323,26 @@
 
   // Chat messages Divider (Dates etc)
   .content__908e2 {
+    background-color: var(--background-primary);
+  }
+
+  .content__01c8c {
+    .scroller__01c8c, .voters__01c8c {
+      background-color: var(--background-primary);
+    }
+
+    .voteSelected__01c8c {
+      background-color: var(--background-secondary);
+    }
+  }
+
+  // Vencord codeblocks
+  .vc-shiki-container {
+    background-color: var(--background-secondary);
+  }
+
+  // Vencord hidden channels
+  .vc-shc-allowed-users-and-roles-container {
     background-color: var(--background-primary);
   }
 }

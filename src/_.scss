@@ -24,7 +24,7 @@
   //modals
   .horizontalReverse__7c0ba, //leave server bottom
   .option__66e7e, //server feedback buttons
-  .footer__6c12c //feedback footer
+  .footer__6c12c, .footer__49fc1 //feedback footer
   {
     background-color: var(--background-secondary);
   }
@@ -70,5 +70,9 @@
 
   .upsellContainer__0b69f {
     background: var(--background-primary);
+  }
+
+  .listeningAlong_e0cf27 {
+    background-color: var(--background-secondary-alt);
   }
 }

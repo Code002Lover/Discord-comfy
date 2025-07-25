@@ -17,6 +17,10 @@
       .container_bc0d35 {
         background-color: var(--background-secondary);
       }
+
+      .profileCard__5d7c9 {
+        background-color: var(--background-secondary);
+      }
     }
 
     // Header of Channels & Roles
@@ -34,13 +38,34 @@
 
   // Mod view
 
-  .container__3a5a1 {
-    background-color: var(--background-primary);
+  .guildSidebar_f75fb0 {
+    background-color: var(--background-secondary);
+    .innerContainer__656be {
+      background-color: var(--background-secondary);
+      .container__34940 {
+        .topRow__34940,
+        .bottomRowAction__34940 {
+          background-color: var(--background-primary);
+        }
+      }
 
-    .innerContainer__3a5a1 {
-      // Join Method invite code
-      .inviteContainer__23437 {
-        background-color: var(--background-secondary-alt);
+      .container__3a5a1 {
+        background-color: var(--background-primary);
+
+        .innerContainer__3a5a1 {
+          // Join Method invite code
+          .inviteContainer__23437 {
+            background-color: var(--background-secondary-alt);
+          }
+        }
+
+        .header__3a5a1 {
+          background-color: var(--background-primary);
+        }
+
+        .modInfoItem__96c0b {
+          background-color: var(--background-secondary);
+        }
       }
     }
   }

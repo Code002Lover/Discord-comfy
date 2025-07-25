@@ -12,7 +12,6 @@ on:
 jobs:
   compile:
     runs-on: ubuntu-latest
-    if: github.repository_id == 748699381
     outputs:
       commitSha: ${{steps.commit.outputs.commit_long_sha}}
 
