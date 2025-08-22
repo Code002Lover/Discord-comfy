@@ -89,7 +89,8 @@
     background-color: var(--background-primary);
 
     // create post
-    .headerRow_f369db .header_f369db, .channelTextAreaInner_d9be46 {
+    .headerRow_f369db .header_f369db,
+    .channelTextAreaInner_d9be46 {
       background-color: var(--background-secondary-alt);
     }
 
@@ -102,7 +103,12 @@
       background-color: var(--background-primary);
 
       .textContentFooter__9a337 {
-        background: linear-gradient(to top,hsl(var(--background-primary)/1),hsl(var(--background-primary)/.97) 36px,hsl(var(--background-primary)/.4))
+        background: linear-gradient(
+          to top,
+          hsl(var(--background-primary) / 1),
+          hsl(var(--background-primary) / 0.97) 36px,
+          hsl(var(--background-primary) / 0.4)
+        );
       }
     }
   }
@@ -167,6 +173,10 @@
   //emoji info
   .popoutContainer__0f481 {
     background-color: var(--background-secondary-alt);
+
+    .guildSection_d5cd2d {
+      background-color: var(--background-secondary);
+    }
   }
 
   //integrations
@@ -327,7 +337,8 @@
   }
 
   .content__01c8c {
-    .scroller__01c8c, .voters__01c8c {
+    .scroller__01c8c,
+    .voters__01c8c {
       background-color: var(--background-primary);
     }
 

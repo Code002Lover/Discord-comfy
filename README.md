@@ -1,6 +1,3 @@
-> [!WARNING]
-> Working on re-writing
-
 <details>
 <summary><h3>Migrating from original theme</h3></summary>
 
