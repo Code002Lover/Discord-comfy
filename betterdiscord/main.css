@@ -378,6 +378,9 @@
 :root .content__908e2 {
   background-color: var(--background-primary);
 }
+:root .chatTypingGradientAtBottom__36d07 {
+  display: none;
+}
 :root .content__01c8c .scroller__01c8c,
 :root .content__01c8c .voters__01c8c {
   background-color: var(--background-primary);
