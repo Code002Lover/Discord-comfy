@@ -247,6 +247,8 @@
   z-index: 1;
   margin: 0;
   padding: 0;
+  width: 40px;
+  height: 40px;
 }
 :root .scrollableContainer__74017 {
   background-color: var(--background-secondary);
@@ -668,8 +670,7 @@
   padding: 8px 8px 8px 12px;
 }
 :root .panels__5e434 {
-  left: 19%;
-  max-width: calc(83% - var(--custom-panels-spacing) * 2);
+  bottom: -10px;
 }
 :root .panels__5e434 .container__37e49 {
   background-color: var(--background-secondary-alt);
