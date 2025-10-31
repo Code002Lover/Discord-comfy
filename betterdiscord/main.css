@@ -64,7 +64,7 @@
 :root .footer__6c12c, :root .footer__49fc1 {
   background-color: var(--background-secondary);
 }
-:root .tooltip__382e7 {
+:root .tooltip_c36707 {
   background-color: var(--background-secondary-alt);
 }
 :root .title_c38106,
@@ -88,7 +88,7 @@
 :root .barText__7aaec {
   color: white !important;
 }
-:root .container__86ab2 {
+:root .container_dca174 {
   background: var(--background-primary);
 }
 :root .upsellContainer__0b69f {
@@ -101,13 +101,13 @@
 :root .container__2637a {
   background-color: var(--background-secondary);
 }
-:root .sidebar_c48ade {
+:root .sidebar__5e434 {
   overflow: visible;
 }
-:root .sidebar_c48ade::after {
+:root .sidebar__5e434::after {
   all: unset;
 }
-:root .panels_c48ade {
+:root .panels__5e434 {
   z-index: 1;
   background: none;
   border: none;
@@ -117,10 +117,10 @@
   margin-left: 72px;
   background-color: var(--background-secondary);
 }
-:root .panels_c48ade .container__37e49 {
+:root .panels__5e434 .container__37e49 {
   all: unset;
 }
-:root .panels_c48ade .container__37e49 .nameTag__37e49 {
+:root .panels__5e434 .container__37e49 .nameTag__37e49 {
   display: none;
 }
 :root .wrapper__44df5 {
@@ -146,7 +146,7 @@
 :root .interactive__972a0.interactiveSelected__972a0:hover {
   background-color: color-mix(in srgb, var(--background-tertiary), white 10%);
 }
-:root .searchBar__35e86 .button__201d5 {
+:root .searchBar_e6b769 .button__201d5 {
   background-color: var(--background-primary);
 }
 :root .containerDefault_c69b6d .wrapper__260e1 {
@@ -175,7 +175,7 @@
 :root .chatContent_f75fb0 {
   background-color: var(--background-primary);
 }
-:root .chatContent_f75fb0 .wrapper_d852db,
+:root .chatContent_f75fb0 .wrapper__6c798,
 :root .chatContent_f75fb0 .wrapper_fc8177 {
   background-color: inherit;
 }
@@ -214,7 +214,7 @@
 :root #---new-messages-bar {
   --divider-color: var(--unread-divider-color, var(--unread-color));
 }
-:root .container__93db4 {
+:root .container__5a2c6 {
   background-color: var(--background-secondary);
 }
 :root .container_f369db {
@@ -239,7 +239,7 @@
 :root .resizeHandle__01ae2 {
   background-color: var(--background-secondary-alt);
 }
-:root .panels_c48ade .avatarWrapper__37e49 .avatar__37e49 {
+:root .panels__5e434 .avatarWrapper__37e49 .avatar__37e49 {
   display: none;
   position: absolute;
   left: calc(100% + 10px);
@@ -267,7 +267,7 @@
 :root .callContainer_cb9592 .buttonSection__1405b {
   background-color: var(--background-tertiary);
 }
-:root .callContainer_cb9592 .regionSelectPopout__5621e {
+:root .callContainer_cb9592 .regionSelectPopout__8de63 {
   background-color: var(--background-secondary);
 }
 :root .popoutContainer__0f481 {
@@ -279,22 +279,22 @@
 :root .card_dc2e44.card__73069 {
   background-color: var(--background-secondary);
 }
-:root .messagesPopoutWrap__45690 {
+:root .messagesPopoutWrap_e8b59c {
   background-color: var(--background-secondary);
 }
-:root .messagesPopoutWrap__45690 .header__45690 {
+:root .messagesPopoutWrap_e8b59c .header_e8b59c {
   background-color: var(--background-tertiary);
 }
-:root .messagesPopoutWrap__45690 .footer__45690 {
+:root .messagesPopoutWrap_e8b59c .footer_e8b59c {
   background-color: var(--background-secondary-alt);
 }
-:root .messagesPopoutWrap__45690 .messageGroupWrapper__45690 {
+:root .messagesPopoutWrap_e8b59c .messageGroupWrapper_e8b59c {
   background-color: var(--background-primary);
 }
 :root .popoutContainer__4ad69 {
   background-color: var(--background-secondary);
 }
-:root .popoutContainer__4ad69 .header__45690 {
+:root .popoutContainer__4ad69 .header_e8b59c {
   background-color: var(--background-tertiary);
 }
 :root .container_d9c882 {
@@ -600,17 +600,17 @@
 :root .outer_c0bea0 .outer_ab8609 {
   background-color: var(--background-secondary);
 }
-:root .outer_c0bea0 .wrapper_da5890 {
+:root .outer_c0bea0 .wrapper__0c74f {
   top: -32px;
   margin: 1px 6px;
   transform: scale(0.9);
   right: 6px;
 }
-:root .outer_c0bea0 .wrapper_da5890 button {
+:root .outer_c0bea0 .wrapper__0c74f button {
   background-color: var(--profile-gradient-primary-color);
   border-radius: 8px;
 }
-:root .user-profile-modal .wrapper_da5890 {
+:root .user-profile-modal .wrapper__0c74f {
   top: 16px;
 }
 :root .overlay_c0bea0 {
@@ -749,10 +749,10 @@
 :root .row__0624f {
   background-color: var(--background-secondary-alt);
 }
-:root .container__87bf1 {
+:root .container__3f21e {
   background-color: color-mix(in srgb, var(--background-primary), white 10%) !important;
 }
-:root .container__87bf1.checked__87bf1 {
+:root .container__3f21e.checked__3f21e {
   background-color: var(--background-accent) !important;
 }
 :root .credentialItem__6c75d {
