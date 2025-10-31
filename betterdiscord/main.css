@@ -68,7 +68,10 @@
   background-color: var(--background-secondary-alt);
 }
 :root .title_c38106,
-:root .sidebar_c48ade {
+:root .sidebarList__5e434 {
+  background-color: var(--background-tertiary);
+}
+:root .base__5e434 {
   background-color: var(--background-tertiary);
 }
 :root .panel__5dec7,
@@ -552,7 +555,7 @@
 :root .container__7d20c {
   background-color: var(--background-secondary);
 }
-:root .privateChannels__35e86 {
+:root .privateChannels_e6b769 {
   background-color: var(--background-secondary);
 }
 :root .scroller__99e7c {
@@ -664,16 +667,35 @@
 :root .user-profile-popout .outer_ab8609 .inner_ab8609 {
   padding: 8px 8px 8px 12px;
 }
+:root .panels__5e434 {
+  left: 19%;
+  max-width: calc(83% - var(--custom-panels-spacing) * 2);
+}
+:root .panels__5e434 .container__37e49 {
+  background-color: var(--background-secondary-alt);
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+:root .panels__5e434 #vc-spotify-player {
+  border-radius: 0px;
+}
+:root .panels__5e434 .wrapper_e131a9 {
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+:root .sidebar__5e434:after {
+  display: none;
+}
 
-:root .wrapper_ef3116.guilds_c48ade {
+:root .wrapper_ef3116.guilds__5e434 {
   background-color: var(--background-tertiary);
 }
-:root .wrapper_ef3116.guilds_c48ade .listItem__650eb .icon__6e9f8,
-:root .wrapper_ef3116.guilds_c48ade .listItem__650eb .folderPreviewWrapper__48112,
-:root .wrapper_ef3116.guilds_c48ade .listItem__650eb .childWrapper__6e9f8 {
+:root .wrapper_ef3116.guilds__5e434 .listItem__650eb .icon__6e9f8,
+:root .wrapper_ef3116.guilds__5e434 .listItem__650eb .folderPreviewWrapper__48112,
+:root .wrapper_ef3116.guilds__5e434 .listItem__650eb .childWrapper__6e9f8 {
   border-radius: var(--server-radius);
 }
-:root .wrapper_ef3116.guilds_c48ade .listItem__650eb .folderPreview__48112 .icon_f34534 {
+:root .wrapper_ef3116.guilds__5e434 .listItem__650eb .folderPreview__48112 .icon_f34534 {
   border-radius: var(--server-radius) !important;
 }
 :root .buttons__37e49 {

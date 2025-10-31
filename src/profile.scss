@@ -106,4 +106,31 @@
       }
     }
   }
+
+  // User panels (User + VC Spotify)
+  .panels__5e434 {
+    left: 19%;
+    max-width: calc(83% - var(--custom-panels-spacing)*2);
+
+    // User
+    .container__37e49 {
+      background-color: var(--background-secondary-alt);
+      border-bottom-left-radius: 8px;
+      border-bottom-right-radius: 8px;
+    }
+
+    #vc-spotify-player {
+      border-radius: 0px;
+    }
+
+    .wrapper_e131a9 {
+      border-top-left-radius: 8px;
+      border-top-right-radius: 8px;
+    }
+  }
+
+  // Weird bottom fade-out
+  .sidebar__5e434:after {
+    display: none;
+  }
 }
