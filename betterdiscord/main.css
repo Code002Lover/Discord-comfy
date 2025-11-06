@@ -832,6 +832,12 @@
 :root .guildSidebar_f75fb0 .innerContainer__656be .container__3a5a1 .modInfoItem__96c0b {
   background-color: var(--background-secondary);
 }
+:root .contentWrapper__99a7e {
+  background-color: var(--background-primary);
+}
+:root .contentWrapper__99a7e .confirmation__1051d {
+  background-color: var(--background-tertiary);
+}
 
 :root .container_a2f514 {
   background-color: var(--background-primary);
