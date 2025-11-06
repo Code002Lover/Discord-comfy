@@ -399,6 +399,21 @@
 :root .vc-shc-allowed-users-and-roles-container {
   background-color: var(--background-primary);
 }
+:root .newMemberActionBar__74017 {
+  background-color: var(--background-primary);
+}
+:root .newMemberActionBar__74017 .banner__183e8 {
+  background-color: var(--background-tertiary);
+}
+:root .container__93db4 {
+  background-color: var(--background-secondary);
+}
+:root .container_ca49a1 {
+  background-color: var(--background-secondary);
+}
+:root .container_ca49a1 .descriptionContainer_ca49a1 {
+  background-color: var(--background-secondary-alt);
+}
 
 :root .connectionIcon_c7f964[alt="Battle.net"],
 :root .accountBtnInner__750de[aria-label="Battle.net"],
