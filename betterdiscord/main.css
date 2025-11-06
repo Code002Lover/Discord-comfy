@@ -612,6 +612,9 @@
   background-color: var(--profile-gradient-primary-color);
   border-radius: 8px;
 }
+:root .outer_c0bea0 .container__62dd3 {
+  background-color: var(--background-tertiary);
+}
 :root .user-profile-modal .wrapper__4106a {
   top: 16px;
 }
