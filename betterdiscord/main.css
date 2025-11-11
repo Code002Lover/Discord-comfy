@@ -195,7 +195,7 @@
 :root .chatContent_f75fb0 {
   background-color: var(--background-primary);
 }
-:root .chatContent_f75fb0 .wrapper_cdf8a9,
+:root .chatContent_f75fb0 .wrapper__4106a,
 :root .chatContent_f75fb0 .wrapper_fc8177 {
   background-color: inherit;
 }
@@ -425,7 +425,7 @@
 :root .newMemberActionBar__74017 .banner__183e8 {
   background-color: var(--background-tertiary);
 }
-:root .container__93db4 {
+:root .container__5a2c6 {
   background-color: var(--background-secondary);
 }
 :root .container_ca49a1 {
@@ -637,20 +637,20 @@
 :root .outer_c0bea0 .outer_ab8609 {
   background-color: var(--background-secondary);
 }
-:root .outer_c0bea0 .wrapper__4106a {
+:root .outer_c0bea0 .wrapper__0d1ef {
   top: -32px;
   margin: 1px 6px;
   transform: scale(0.9);
   right: 6px;
 }
-:root .outer_c0bea0 .wrapper__4106a button {
+:root .outer_c0bea0 .wrapper__0d1ef button {
   background-color: var(--profile-gradient-primary-color);
   border-radius: 8px;
 }
 :root .outer_c0bea0 .container__62dd3 {
   background-color: var(--background-tertiary);
 }
-:root .user-profile-modal .wrapper__4106a {
+:root .user-profile-modal .wrapper__0d1ef {
   top: 16px;
 }
 :root .overlay_c0bea0 {
