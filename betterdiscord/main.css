@@ -97,6 +97,26 @@
 :root .listeningAlong_e0cf27 {
   background-color: var(--background-secondary-alt);
 }
+:root .dnsFont__89a31 {
+  font-family: gg sans, Arial, sans-serif;
+}
+:root .dnsFont__89a31 * {
+  --custom-display-name-styles-main-color: var(--white-500) !important;
+  --custom-display-name-styles-light-1-color: var(--black-500) !important;
+  --custom-display-name-styles-light-2-color: var(--black-500) !important;
+  --custom-display-name-styles-dark-1-color: var(--white-500) !important;
+  --custom-display-name-styles-dark-2-color: var(--white-500) !important;
+  --custom-display-name-styles-font-opacity: 0 !important;
+}
+:root .dnsFont__89a31 .glowContainer_dfb989 {
+  display: none;
+}
+:root .showEffect_dfb989.container_dfb989 * {
+  -webkit-text-stroke-width: 0px !important;
+}
+:root .animated_dfb989 {
+  animation: none !important;
+}
 
 :root .container__2637a {
   background-color: var(--background-secondary);
