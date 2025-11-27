@@ -195,7 +195,7 @@
 :root .chatContent_f75fb0 {
   background-color: var(--background-primary);
 }
-:root .chatContent_f75fb0 .wrapper__0d1ef,
+:root .chatContent_f75fb0 .wrapper__6c798,
 :root .chatContent_f75fb0 .wrapper_fc8177 {
   background-color: inherit;
 }
@@ -637,20 +637,20 @@
 :root .outer_c0bea0 .outer_ab8609 {
   background-color: var(--background-secondary);
 }
-:root .outer_c0bea0 .wrapper__6c798 {
+:root .outer_c0bea0 .wrapper_cdf8a9 {
   top: -32px;
   margin: 1px 6px;
   transform: scale(0.9);
   right: 6px;
 }
-:root .outer_c0bea0 .wrapper__6c798 button {
+:root .outer_c0bea0 .wrapper_cdf8a9 button {
   background-color: var(--profile-gradient-primary-color);
   border-radius: 8px;
 }
 :root .outer_c0bea0 .container__62dd3 {
   background-color: var(--background-tertiary);
 }
-:root .user-profile-modal .wrapper__6c798 {
+:root .user-profile-modal .wrapper_cdf8a9 {
   top: 16px;
 }
 :root .overlay_c0bea0 {
