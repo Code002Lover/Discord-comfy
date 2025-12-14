@@ -109,4 +109,9 @@
   .animated_dfb989 {
     animation: none !important;
   }
+
+  // Fix Spotify player title
+  #vc-spotify-song-title {
+    color: var(--text-default) !important;
+  }
 }
