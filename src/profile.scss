@@ -1,25 +1,25 @@
 :root {
   // behind pfp
-  .mask__68edb > mask {
+  ._68edb95846a37624-mask > mask {
     display: none;
   }
 
   // profile
-  .outer_c0bea0 {
+  .c0bea05627c5dc35-outer {
     overflow: visible;
 
-    .inner_c0bea0 {
+    .c0bea05627c5dc35-inner {
       background-color: var(--background-primary);
     }
 
-    .inner_ab8609, //add status
-    .outer_ab8609 //add status bubbles
+    .ab86098b36386ff7-inner, //add status
+    .ab86098b36386ff7-outer //add status bubbles
     {
       background-color: var(--background-secondary);
     }
 
     // actions
-    .wrapper__4106a {
+    ._0d1eff984b8fd277-wrapper {
       top: -32px;
       margin: 1px 6px;
       transform: scale(0.9);
@@ -32,39 +32,39 @@
     }
 
     // "Board" section
-    .container__62dd3 {
+    ._62dd31d5e86f2841-container {
       background-color: var(--background-tertiary);
     }
   }
 
   .user-profile-modal {
-    .wrapper__4106a {
+    ._0d1eff984b8fd277-wrapper {
       top: 16px;
     }
   }
 
   // sections
-  .overlay_c0bea0 {
+  .c0bea05627c5dc35-overlay {
     background-color: var(--background-secondary-alt);
   }
 
   .user-profile-popout {
-    :where(.avatar__75742) {
+    :where(._75742e4cc9019aeb-avatar) {
       top: 10px;
     }
 
-    .usernameRow__63ed3 {
+    ._63ed30c16c7151f2-usernameRow {
       position: absolute;
       z-index: 9999;
       top: -130px;
       left: 120px;
       display: block;
 
-      .nicknameIcons__63ed3 {
+      ._63ed30c16c7151f2-nicknameIcons {
         display: none; //TODO: fix nickname icons
       }
 
-      .nickname__63ed3 {
+      ._63ed30c16c7151f2-nickname {
         font-size: clamp(0.7vw, 20px, 1vw);
         text-overflow: ellipsis;
         white-space: nowrap;
@@ -72,14 +72,14 @@
       }
     }
 
-    .container__8061a {
+    ._8061a5f9dbf6d829-container {
       position: absolute;
       z-index: 9999;
       top: -90px;
       left: 120px;
     }
 
-    div.body__5be3e.thin_d125d2.scrollerBase_d125d2.fade_d125d2 {
+    div._5be3ef42f92174b2-body.d125d22cdfd32cfe-thin.d125d22cdfd32cfe-scrollerBase.d125d22cdfd32cfe-fade {
       top: -10px;
       overflow: visible !important;
 
@@ -88,7 +88,7 @@
       border-radius: 10px;
     }
 
-    .container_ab8609 {
+    .ab86098b36386ff7-container {
       top: calc(var(--custom-user-profile-banner-height) + 3px);
       left: 10px;
 
@@ -98,7 +98,7 @@
       }
     }
 
-    .outer_ab8609 {
+    .ab86098b36386ff7-outer {
       border-radius: 10px;
       width: fit-content;
       max-width: none;
@@ -106,18 +106,18 @@
       margin-bottom: 8px;
       box-sizing: unset;
 
-      .inner_ab8609 {
+      .ab86098b36386ff7-inner {
         padding: 8px 8px 8px 12px;
       }
     }
   }
 
   // User panels (User + VC Spotify)
-  .panels__5e434 {
+  ._5e434347c823b592-panels {
     bottom: -10px;
 
     // User
-    .container__37e49 {
+    ._37e49614b9f110a9-container {
       background-color: var(--background-secondary-alt);
       border-bottom-left-radius: 8px;
       border-bottom-right-radius: 8px;
@@ -127,14 +127,14 @@
       border-radius: 0px;
     }
 
-    .wrapper_e131a9 {
+    .e131a99484292a19-wrapper {
       border-top-left-radius: 8px;
       border-top-right-radius: 8px;
     }
   }
 
   // Weird bottom fade-out
-  .sidebar__5e434:after {
+  ._5e434347c823b592-sidebar:after {
     display: none;
   }
 }
