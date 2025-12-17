@@ -7,7 +7,9 @@
   ._1fed1dd06c7aabf7-accountProfileCard {
     background-color: var(--background-secondary);
 
-    ._1fed1dd06c7aabf7-background, ._1fed1dd06c7aabf7-fieldList, ._1fed1dd06c7aabf7-badgeList {
+    ._1fed1dd06c7aabf7-background,
+    ._1fed1dd06c7aabf7-fieldList,
+    ._1fed1dd06c7aabf7-badgeList {
       background-color: var(--background-primary);
     }
   }
@@ -54,7 +56,8 @@
 
   //channel settings
   ._23e6b439306f125a-contentColumn {
-    ._1a4ef2934d882343-folderHeader, ._1a4ef2934d882343-roleMemberList {
+    ._1a4ef2934d882343-folderHeader,
+    ._1a4ef2934d882343-roleMemberList {
       background-color: var(--background-secondary);
     }
 
@@ -62,26 +65,30 @@
       background-color: var(--background-primary);
     }
 
-    ._344e69670924b1be-group > ._344e69670924b1be-item:not(._344e69670924b1be-selected) {
+    ._344e69670924b1be-group
+      > ._344e69670924b1be-item:not(._344e69670924b1be-selected) {
       background-color: var(--background-secondary);
     }
 
-    ._344e69670924b1be-group > ._344e69670924b1be-item._344e69670924b1be-selected {
+    ._344e69670924b1be-group
+      > ._344e69670924b1be-item._344e69670924b1be-selected {
       background-color: var(--background-tertiary);
     }
   }
 
-  ._8a529c8f8d8148a5-container {
+  .abd9a8b9030934e3-container {
     background-color: var(--background-secondary);
 
-    .e9e3ed8b8badfe05-content, .e9e3ed8b8badfe05-contentHeader {
+    .e9e3ed8b8badfe05-content,
+    .e9e3ed8b8badfe05-contentHeader {
       background-color: var(--background-secondary);
     }
 
-    ._5cea9da4c2ca012f-usersList, .vc-settings-quickActions-pill {
+    ._5cea9da4c2ca012f-usersList,
+    .vc-settings-quickActions-pill {
       background-color: var(--background-primary);
     }
-    
+
     .vc-card-base {
       background-color: var(--background-tertiary);
     }

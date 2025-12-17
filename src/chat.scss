@@ -124,7 +124,9 @@
   }
 
   // user area pfp
-  ._5e434347c823b592-panels ._37e49614b9f110a9-avatarWrapper ._37e49614b9f110a9-avatar {
+  ._5e434347c823b592-panels
+    ._37e49614b9f110a9-avatarWrapper
+    ._37e49614b9f110a9-avatar {
     display: none;
     position: absolute;
     left: calc(100% + 10px);
@@ -142,7 +144,9 @@
   }
 
   // hide pfp unless text box
-  :has(.f75fb00fb7356cbe-form) ._37e49614b9f110a9-avatarWrapper ._37e49614b9f110a9-avatar {
+  :has(.f75fb00fb7356cbe-form)
+    ._37e49614b9f110a9-avatarWrapper
+    ._37e49614b9f110a9-avatar {
     display: block;
   }
 
