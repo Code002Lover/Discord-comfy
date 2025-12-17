@@ -774,7 +774,9 @@
 :root ._1fed1dd06c7aabf7-accountProfileCard {
   background-color: var(--background-secondary);
 }
-:root ._1fed1dd06c7aabf7-accountProfileCard ._1fed1dd06c7aabf7-background, :root ._1fed1dd06c7aabf7-accountProfileCard ._1fed1dd06c7aabf7-fieldList, :root ._1fed1dd06c7aabf7-accountProfileCard ._1fed1dd06c7aabf7-badgeList {
+:root ._1fed1dd06c7aabf7-accountProfileCard ._1fed1dd06c7aabf7-background,
+:root ._1fed1dd06c7aabf7-accountProfileCard ._1fed1dd06c7aabf7-fieldList,
+:root ._1fed1dd06c7aabf7-accountProfileCard ._1fed1dd06c7aabf7-badgeList {
   background-color: var(--background-primary);
 }
 :root ._23e6b439306f125a-sidebarRegionScroller,
@@ -803,7 +805,8 @@
 :root ._65c15724a894a2e0-premiumBackground {
   background-color: var(--background-secondary);
 }
-:root ._23e6b439306f125a-contentColumn ._1a4ef2934d882343-folderHeader, :root ._23e6b439306f125a-contentColumn ._1a4ef2934d882343-roleMemberList {
+:root ._23e6b439306f125a-contentColumn ._1a4ef2934d882343-folderHeader,
+:root ._23e6b439306f125a-contentColumn ._1a4ef2934d882343-roleMemberList {
   background-color: var(--background-secondary);
 }
 :root ._23e6b439306f125a-contentColumn ._535437b3d3b11fd1-scroller {
@@ -815,16 +818,18 @@
 :root ._23e6b439306f125a-contentColumn ._344e69670924b1be-group > ._344e69670924b1be-item._344e69670924b1be-selected {
   background-color: var(--background-tertiary);
 }
-:root ._8a529c8f8d8148a5-container {
+:root .abd9a8b9030934e3-container {
   background-color: var(--background-secondary);
 }
-:root ._8a529c8f8d8148a5-container .e9e3ed8b8badfe05-content, :root ._8a529c8f8d8148a5-container .e9e3ed8b8badfe05-contentHeader {
+:root .abd9a8b9030934e3-container .e9e3ed8b8badfe05-content,
+:root .abd9a8b9030934e3-container .e9e3ed8b8badfe05-contentHeader {
   background-color: var(--background-secondary);
 }
-:root ._8a529c8f8d8148a5-container ._5cea9da4c2ca012f-usersList, :root ._8a529c8f8d8148a5-container .vc-settings-quickActions-pill {
+:root .abd9a8b9030934e3-container ._5cea9da4c2ca012f-usersList,
+:root .abd9a8b9030934e3-container .vc-settings-quickActions-pill {
   background-color: var(--background-primary);
 }
-:root ._8a529c8f8d8148a5-container .vc-card-base {
+:root .abd9a8b9030934e3-container .vc-card-base {
   background-color: var(--background-tertiary);
 }
 
