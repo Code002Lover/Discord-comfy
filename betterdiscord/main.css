@@ -437,6 +437,12 @@
 :root .ca49a1898ddc29e3-container .ca49a1898ddc29e3-descriptionContainer {
   background-color: var(--background-secondary-alt);
 }
+:root .fed6d32841cc2da2-content {
+  background-color: var(--background-secondary-alt);
+}
+:root ._3ad28b0867fa3fad-categoryList, :root .aeaaeb2a573807f0-inspector {
+  background-color: var(--background-secondary-alt);
+}
 
 :root .c7f964e7e0fc8b47-connectionIcon[alt="Battle.net"],
 :root ._750deea9823265e4-accountBtnInner[aria-label="Battle.net"],
