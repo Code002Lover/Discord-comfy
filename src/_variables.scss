@@ -34,6 +34,12 @@
   // Footer of files etc
   --background-surface-high: var(--background-secondary-alt);
   --background-surface-higher: var(--background-secondary) !important;
+
+  --background-base-low: var(--background-secondary-alt);
+  --background-base-lower: var(--background-primary);
+  --background-base-lowest: var(--background-secondary);
+  --custom-channel-members-bg: var(--background-secondary-alt);
+  --chat-background-default: var(--background-primary);
 }
 
 .theme-light {
