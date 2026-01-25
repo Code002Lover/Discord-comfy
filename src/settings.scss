@@ -1,90 +1,90 @@
 :root {
-  ._23e6b439306f125a-contentRegionScroller //main settings area
+  .contentRegionScroller__23e6b //main settings area
   {
     background-color: var(--background-primary);
   }
 
-  ._1fed1dd06c7aabf7-accountProfileCard {
+  .accountProfileCard__1fed1 {
     background-color: var(--background-secondary);
 
-    ._1fed1dd06c7aabf7-background,
-    ._1fed1dd06c7aabf7-fieldList,
-    ._1fed1dd06c7aabf7-badgeList {
+    .background__1fed1,
+    .fieldList__1fed1,
+    .badgeList__1fed1 {
       background-color: var(--background-primary);
     }
   }
 
-  ._23e6b439306f125a-sidebarRegionScroller, //sidebar
-  ._730694f5672c9601-cardPrimary, //Account standing
+  .sidebarRegionScroller__23e6b, //sidebar
+  .cardPrimary__73069, //Account standing
   .vc-addon-card, //vencord plugins
-  .f8c98cc3d7c1bc42-box, //family centre
-  ._50a5493e9d9cc496-authedAppV2, //authorized apps
+  .box_f8c98c, //family centre
+  .authedAppV2__50a54, //authorized apps
   .connectContainer_c7f964, // connections page header
-  .c7f964e7e0fc8b47-connection //individual apps
+  .connection_c7f964 //individual apps
   {
     background-color: var(--background-secondary);
   }
 
-  .c7f964e7e0fc8b47-connectionHeader, //connections header
-  ._50a5493e9d9cc496-headerV2,
-  ._0624fc41b766635c-row // Family centre stuff
+  .connectionHeader_c7f964, //connections header
+  .headerV2__50a54,
+  .row__0624f // Family centre stuff
   {
     background-color: var(--background-secondary-alt);
   }
 
   // Toggles
-  ._3f21e80f8677ec40-container {
+  .container__3f21e {
     background-color: color-mix(
       in srgb,
       var(--background-primary),
       white 10%
     ) !important;
 
-    &._3f21e80f8677ec40-checked {
+    &.checked__3f21e {
       background-color: var(--background-accent) !important;
     }
   }
 
   // Security keys
-  ._6c75d92c128c46b0-credentialItem {
+  .credentialItem__6c75d {
     background-color: var(--background-secondary);
   }
 
-  ._65c15724a894a2e0-premiumBackground {
+  .premiumBackground__65c15 {
     background-color: var(--background-secondary);
   }
 
   //channel settings
-  ._23e6b439306f125a-contentColumn {
-    ._1a4ef2934d882343-folderHeader,
-    ._1a4ef2934d882343-roleMemberList {
+  .contentColumn__23e6b {
+    .folderHeader__1a4ef,
+    .roleMemberList__1a4ef {
       background-color: var(--background-secondary);
     }
 
-    ._535437b3d3b11fd1-scroller {
+    .scroller__53543 {
       background-color: var(--background-primary);
     }
 
-    ._344e69670924b1be-group
-      > ._344e69670924b1be-item:not(._344e69670924b1be-selected) {
+    .group__344e6
+      > .item__344e6:not(.selected__344e6) {
       background-color: var(--background-secondary);
     }
 
-    ._344e69670924b1be-group
-      > ._344e69670924b1be-item._344e69670924b1be-selected {
+    .group__344e6
+      > .item__344e6.selected__344e6 {
       background-color: var(--background-tertiary);
     }
   }
 
-  .abd9a8b9030934e3-container {
+  .container_abd9a8 {
     background-color: var(--background-secondary);
 
-    .e9e3ed8b8badfe05-content,
-    .e9e3ed8b8badfe05-contentHeader {
+    .content_e9e3ed,
+    .contentHeader_e9e3ed {
       background-color: var(--background-secondary);
     }
 
-    ._5cea9da4c2ca012f-usersList,
+    .usersList__5cea9,
     .vc-settings-quickActions-pill {
       background-color: var(--background-primary);
     }

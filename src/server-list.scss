@@ -1,26 +1,26 @@
 $serverListWidth: 72px;
 
 :root {
-  .ef3116c2da186559-wrapper._5e434347c823b592-guilds {
+  .wrapper_ef3116.guilds__5e434 {
     background-color: var(--background-tertiary);
     margin-bottom: calc(110px + var(--space-xs) - 16px);
 
-    ._650eb104245d257b-listItem {
-      ._6e9f8dce4cc18de3-icon, // server icon
-      ._48112cbe77dc5022-folderPreviewWrapper, // folders
-      ._6e9f8dce4cc18de3-childWrapper // home button
+    .listItem__650eb {
+      .icon__6e9f8, // server icon
+      .folderPreviewWrapper__48112, // folders
+      .childWrapper__6e9f8 // home button
       {
         border-radius: var(--server-radius);
       }
 
-      ._48112cbe77dc5022-folderPreview .f34534e8a5d3ca64-icon {
+      .folderPreview__48112 .icon_f34534 {
         border-radius: var(--server-radius) !important;
       }
     }
   }
 
   // user area buttons
-  ._37e49614b9f110a9-buttons {
+  .buttons__37e49 {
     position: fixed;
     width: $serverListWidth;
     background: var(--background-tertiary);
@@ -40,15 +40,15 @@ $serverListWidth: 72px;
   }
 
   // unread pill
-  .cc5dd25190031396-lowerBadge {
+  .lowerBadge_cc5dd2 {
     z-index: 1;
   }
   // unread
-  .ef3116c2da186559-unreadMentionsIndicatorBottom {
+  .unreadMentionsIndicatorBottom_ef3116 {
     width: $serverListWidth;
     padding: 0;
 
-    ._3b95d7d910416e54-bar {
+    .bar__3b95d {
       width: inherit;
       background-color: var(--mention-color);
     }
