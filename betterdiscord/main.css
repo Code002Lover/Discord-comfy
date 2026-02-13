@@ -829,18 +829,18 @@
 :root .contentColumn__23e6b .group__344e6 > .item__344e6.selected__344e6 {
   background-color: var(--background-tertiary);
 }
-:root .container__6c21f {
+:root .container_d4630c {
   background-color: var(--background-secondary);
 }
-:root .container__6c21f .content_e9e3ed,
-:root .container__6c21f .contentHeader_e9e3ed {
+:root .container_d4630c .content_e9e3ed,
+:root .container_d4630c .contentHeader_e9e3ed {
   background-color: var(--background-secondary);
 }
-:root .container__6c21f .usersList__5cea9,
-:root .container__6c21f .vc-settings-quickActions-pill {
+:root .container_d4630c .usersList__5cea9,
+:root .container_d4630c .vc-settings-quickActions-pill {
   background-color: var(--background-primary);
 }
-:root .container__6c21f .vc-card-base {
+:root .container_d4630c .vc-card-base {
   background-color: var(--background-tertiary);
 }
 
