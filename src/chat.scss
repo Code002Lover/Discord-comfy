@@ -125,7 +125,7 @@
 
   // user area pfp
   .panels__5e434
-    .avatarWrapper__37e49
+    .accountPopoutButtonWrapper__37e49
     .avatar__37e49 {
     display: none;
     position: absolute;
@@ -145,7 +145,7 @@
 
   // hide pfp unless text box
   :has(.form_f75fb0)
-    .avatarWrapper__37e49
+    .accountPopoutButtonWrapper__37e49
     .avatar__37e49 {
     display: block;
   }
