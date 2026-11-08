@@ -1,20 +1,20 @@
 :root {
   // main list
-  .container__2637a {
+  .container_H5ozaj {
     background-color: var(--background-secondary);
   }
 
-  .sidebar__5e434 {
+  .sidebar_pog62O {
     overflow: visible; // show pfp
   }
 
   //weird bar
-  .sidebar__5e434::after {
+  .sidebar_pog62O::after {
     all: unset;
   }
 
   // user area
-  .panels__5e434 {
+  .panels_pog62O {
     z-index: 1;
     background: none;
     border: none;
@@ -24,36 +24,36 @@
     margin-left: 72px;
     background-color: var(--background-secondary);
 
-    .container__37e49 {
+    .container_g6VwXp {
       all: unset;
 
-      .nameTag__37e49 {
+      .nameTag_g6VwXp {
         display: none;
       }
     }
   }
 
   //announcement channel "follow this channel"
-  .wrapper__44df5 {
+  .wrapper_ST_Y69 {
     background-color: var(--background-secondary);
   }
 
   // forum hover
   .popout_8514,
-  .popout__76f04 {
+  .popout_j5xNzb {
     background-color: var(--background-secondary-alt);
   }
 
   // New unreads
-  .bar__7aaec {
+  .bar_t1P8Sn {
     background-color: var(--unread-color);
   }
-  .mentionsBar__7aaec {
+  .mentionsBar_t1P8Sn {
     background-color: var(--mention-color);
   }
 
   // home page selectors
-  .interactive__972a0 {
+  .interactive_zln_tS {
     &:hover {
       background-color: color-mix(
         in srgb,
@@ -62,7 +62,7 @@
       );
     }
 
-    &.interactiveSelected__972a0 {
+    &.interactiveSelected_zln_tS {
       background: none;
       background-color: var(--background-tertiary);
 
@@ -77,25 +77,25 @@
   }
 
   // DM list search bar
-  .searchBar_e6b769 .button__201d5 {
+  .searchBar_u88IQl .button_9OQtot {
     background-color: var(--background-primary);
   }
 
   // channel
-  .containerDefault_c69b6d {
+  .containerDefault_Wx6SnQ {
     // VC user limits
-    .wrapper__260e1 {
+    .wrapper_QQRrAh {
       background-color: var(--background-primary);
 
-      .users__260e1 {
+      .users_QQRrAh {
         background-color: var(--background-secondary-alt);
       }
 
-      .total__260e1 {
+      .total_QQRrAh {
         background-color: var(--background-primary);
       }
 
-      .total__260e1:after {
+      .total_QQRrAh:after {
         border-right-color: var(--background-primary);
       }
     }

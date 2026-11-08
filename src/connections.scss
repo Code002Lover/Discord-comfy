@@ -29,9 +29,9 @@ $connections: (
 :root {
   @each $conn, $color in $connections {
     .connectionIcon_c7f964[alt="#{$conn}"], // connections page
-    .accountBtnInner__750de[aria-label="#{$conn}"], // add (all shown)
+    .accountBtnInner_g9DJn9[aria-label="#{$conn}"], // add (all shown)
     .accountButtonInner_c7f964[aria-label="#{$conn}"], // add (featured)
-    .connectedAccountIcon_e6abe8[aria-label="#{$conn}"] // profile modal
+    .connectedAccountIcon_XvCt_s[aria-label="#{$conn}"] // profile modal
     {
       background-color: $color;
     }

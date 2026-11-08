@@ -1,19 +1,19 @@
 :root {
-  .avatar__44b0c, // dm/chatbar/member
-  .avatar_c19a55, // messages
-  .avatar__07f91, // channel list vc
-  .avatar_d28e10, //settings
-  .overlay__75742:after, //hover overlay
-  .voiceAvatar_f910d0, // call
-  .border_f910d0, // call (speaking)
+  .avatar_XpIUHy, // dm/chatbar/member
+  .avatar_2i8Bfm, // messages
+  .avatar_YUoOxm, // channel list vc
+  .avatar_zNeEEq, //settings
+  .overlay_WRLIGC:after, //hover overlay
+  .voiceAvatar_NdapwK, // call
+  .border_NdapwK, // call (speaking)
   .avatarSpeaking__44b0c // chatbar pfp (speaking)
   {
     border-radius: var(--avatar-radius);
   }
 
-  .mask__44b0c,
-  .wrapper_cc5dd2, // dm call
-  .callAvatarMask_f910d0 {
+  .mask_XpIUHy,
+  .wrapper_hqZPsU, // dm call
+  .callAvatarMask_NdapwK {
     foreignObject {
       mask: unset;
     }
@@ -22,32 +22,32 @@
   //TODO status icons
 
   //modals
-  .horizontalReverse__7c0ba, //leave server bottom
-  .option__66e7e, //server feedback buttons
-  .footer__6c12c, .footer__49fc1 //feedback footer
+  .horizontalReverse_hkRWAH, //leave server bottom
+  .option_RJkt6C, //server feedback buttons
+  .footer_bNwrTb, .footer__KoJTP //feedback footer
   {
     background-color: var(--background-secondary);
   }
 
   //Tooltips
-  .tooltip_c36707 {
+  .tooltip_3_v8qp {
     background-color: var(--background-secondary-alt);
   }
 
   //Topbar + weird corner of main area
-  .title_c38106,
-  .sidebarList__5e434 {
+  .title_3zSH5d,
+  .sidebarList_pog62O {
     background-color: var(--background-tertiary);
   }
 
   //Base bg
-  .base__5e434 {
+  .base_pog62O {
     background-color: var(--background-tertiary);
   }
 
   // Streaming bar + vc status + spotify player
-  .panel__5dec7,
-  .wrapper_e131a9,
+  .panel_8eCwJY,
+  .wrapper_9U6LUN,
   #vc-spotify-player {
     background-color: var(--background-secondary-alt);
   }
@@ -58,31 +58,31 @@
   }
 
   // mentions badge
-  .numberBadge__463b7 {
+  .numberBadge_lMvXrQ {
     background-color: var(--mention-color) !important;
     // animation: var(--disable-animations);
   }
 
   // text
-  .barText__7aaec {
+  .barText_t1P8Sn {
     color: white !important;
   }
 
   // Server popout (clicking on tags)
-  .container_dca174 {
+  .container_Xweo-z {
     background: var(--background-primary);
   }
 
-  .upsellContainer__0b69f {
+  .upsellContainer_jFJVCQ {
     background: var(--background-primary);
   }
 
-  .listeningAlong_e0cf27 {
+  .listeningAlong_Zar2Rk {
     background-color: var(--background-secondary-alt);
   }
 
   // Custom fonts
-  .dnsFont__89a31 {
+  .dnsFont_OAgVZM {
     font-family:
       gg sans,
       Arial,
@@ -102,11 +102,11 @@
     }
   }
 
-  .showEffect_dfb989.container_dfb989 * {
+  .showEffect_or4Hj-.container_or4Hj- * {
     -webkit-text-stroke-width: 0px !important;
   }
 
-  .animated_dfb989 {
+  .animated_or4Hj- {
     animation: none !important;
   }
 

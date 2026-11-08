@@ -1,5 +1,5 @@
 :root {
-  .contentRegionScroller__23e6b //main settings area
+  .contentRegionScroller_jnk11m //main settings area
   {
     background-color: var(--background-primary);
   }
@@ -14,11 +14,11 @@
     }
   }
 
-  .sidebarRegionScroller__23e6b, //sidebar
-  .cardPrimary_b5dd01, //Account standing
+  .sidebarRegionScroller_jnk11m, //sidebar
+  .cardPrimary_qCN-Ri, //Account standing
   .vc-addon-card, //vencord plugins
-  .box_f8c98c, //family centre
-  .authedAppV2__92059, //authorized apps
+  .box_qCRz2b, //family centre
+  .authedAppV2_-8GDCL, //authorized apps
   .connectContainer_c7f964, // connections page header
   .connection_c7f964 //individual apps
   {
@@ -26,8 +26,8 @@
   }
 
   .connectionHeader_c7f964, //connections header
-  .headerV2__92059,
-  .row__0624f // Family centre stuff
+  .headerV2_-8GDCL,
+  .row_qUlUyR // Family centre stuff
   {
     background-color: var(--background-secondary-alt);
   }
@@ -50,41 +50,41 @@
     background-color: var(--background-secondary);
   }
 
-  .premiumBackground__65c15 {
+  .premiumBackground_qIotUB {
     background-color: var(--background-secondary);
   }
 
   //channel settings
-  .contentColumn__23e6b {
-    .folderHeader__1a4ef,
-    .roleMemberList__1a4ef {
+  .contentColumn_jnk11m {
+    .folderHeader_1X7XDm,
+    .roleMemberList_1X7XDm {
       background-color: var(--background-secondary);
     }
 
-    .scroller__53543 {
+    .scroller_EDKX0U {
       background-color: var(--background-primary);
     }
 
-    .group__344e6
-      > .item__344e6:not(.selected__344e6) {
+    .group_8GP31u
+      > .item_8GP31u:not(.selected_8GP31u) {
       background-color: var(--background-secondary);
     }
 
-    .group__344e6
-      > .item__344e6.selected__344e6 {
+    .group_8GP31u
+      > .item_8GP31u.selected_8GP31u {
       background-color: var(--background-tertiary);
     }
   }
 
-  .container__23ba6 {
+  .container_A2Hb-1 {
     background-color: var(--background-secondary);
 
-    .content_e9e3ed,
-    .contentHeader_e9e3ed {
+    .content_3Rvb29,
+    .contentHeader_3Rvb29 {
       background-color: var(--background-secondary);
     }
 
-    .usersList_a72ffc,
+    .usersList_lh6aTV,
     .vc-settings-quickActions-pill {
       background-color: var(--background-primary);
     }

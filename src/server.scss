@@ -1,77 +1,77 @@
 :root {
   // community
-  .chat_f75fb0 //main pages
+  .chat_z_gUBg //main pages
   {
     background-color: var(--background-primary) !important;
 
     //Channels & Roles / Server Guide + Browse Channels
-    .content_f75fb0,
-    .pageBody__41ed7 {
+    .content_z_gUBg,
+    .pageBody_fTKmdS {
       background-color: var(--background-primary) !important;
 
-      .mainTableContainer__09a38 {
+      .mainTableContainer_-blG2T {
         background-color: var(--background-secondary) !important;
       }
 
       // Choose Your Channels
-      .container_bc0d35 {
+      .container_oQmK1h {
         background-color: var(--background-secondary);
       }
 
-      .profileCard__5d7c9 {
+      .profileCard_pHGfKY {
         background-color: var(--background-secondary);
       }
 
-      .upsellPreview_d9161f {
+      .upsellPreview_yLJWMA {
         background-color: var(--background-tertiary);
 
-        .previewListItem_d9161f.selected_d9161f {
+        .previewListItem_yLJWMA.selected_yLJWMA {
           background-color: var(--background-primary);
         }
       }
     }
 
     // Header of Channels & Roles
-    .header__0b563 {
+    .header_xTP3zy {
       background-color: var(--background-secondary) !important;
     }
   }
 
-  .prompt__5d7c9, //Customize prompts
-  .channelRow_e4503a, //Channels in browse channels
-  .row_d13feb // Resources
+  .prompt_pHGfKY, //Customize prompts
+  .channelRow_kU9idL, //Channels in browse channels
+  .row_Qo6EL- // Resources
   {
     background-color: var(--background-secondary);
   }
 
   // Mod view
 
-  .guildSidebar_f75fb0 {
+  .guildSidebar_z_gUBg {
     background-color: var(--background-secondary);
-    .innerContainer__656be {
+    .innerContainer_MLLsfk {
       background-color: var(--background-secondary);
-      .container__34940 {
-        .topRow__34940,
-        .bottomRowAction__34940 {
+      .container_ebzPvR {
+        .topRow_ebzPvR,
+        .bottomRowAction_ebzPvR {
           background-color: var(--background-primary);
         }
       }
 
-      .container__3a5a1 {
+      .container_4sPjw- {
         background-color: var(--background-primary);
 
-        .innerContainer__3a5a1 {
+        .innerContainer_4sPjw- {
           // Join Method invite code
-          .inviteContainer__23437 {
+          .inviteContainer_wTuOih {
             background-color: var(--background-secondary-alt);
           }
         }
 
-        .header__3a5a1 {
+        .header_4sPjw- {
           background-color: var(--background-primary);
         }
 
-        .modInfoItem__96c0b {
+        .modInfoItem_M3Y1qv {
           background-color: var(--background-secondary);
         }
       }
@@ -80,10 +80,10 @@
 
   // Application
 
-  .contentWrapper__99a7e {
+  .contentWrapper_4JoJic {
     background-color: var(--background-primary);
 
-    .confirmation__1051d {
+    .confirmation_Br3ZUd {
       background-color: var(--background-tertiary);
     }
   }

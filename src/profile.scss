@@ -5,21 +5,21 @@
   }
 
   // profile
-  .outer_c0bea0 {
+  .outer_P1YEjQ {
     overflow: visible;
 
-    .inner_c0bea0 {
+    .inner_P1YEjQ {
       background-color: var(--background-primary);
     }
 
-    .inner_ab8609, //add status
-    .outer_ab8609 //add status bubbles
+    .inner_rmCN9_, //add status
+    .outer_rmCN9_ //add status bubbles
     {
       background-color: var(--background-secondary);
     }
 
     // actions
-    .wrapper_d852db {
+    .wrapper_gFyPwI {
       top: -32px;
       margin: 1px 6px;
       transform: scale(0.9);
@@ -32,24 +32,24 @@
     }
 
     // "Board" section
-    .container__62dd3 {
+    .container_FNEkcu {
       background-color: var(--background-tertiary);
     }
   }
 
   .user-profile-modal {
-    .wrapper_d852db {
+    .wrapper_gFyPwI {
       top: 16px;
     }
   }
 
   // sections
-  .overlay_c0bea0 {
+  .overlay_P1YEjQ {
     background-color: var(--background-secondary-alt);
   }
 
   .user-profile-popout {
-    :where(.avatar__75742) {
+    :where(.avatar_WRLIGC) {
       top: 10px;
     }
 
@@ -72,14 +72,14 @@
       }
     }
 
-    .container__8061a {
+    .container_IqWmhA {
       position: absolute;
       z-index: 9999;
       top: -90px;
       left: 120px;
     }
 
-    div.body__5be3e.thin_d125d2.scrollerBase_d125d2.fade_d125d2 {
+    div.body_NOlkhE.thin_tqapBM.scrollerBase_tqapBM.fade_tqapBM {
       top: -10px;
       overflow: visible !important;
 
@@ -88,7 +88,7 @@
       border-radius: 10px;
     }
 
-    .container_ab8609 {
+    .container_rmCN9_ {
       top: calc(var(--custom-user-profile-banner-height) + 3px);
       left: 10px;
 
@@ -98,7 +98,7 @@
       }
     }
 
-    .outer_ab8609 {
+    .outer_rmCN9_ {
       border-radius: 10px;
       width: fit-content;
       max-width: none;
@@ -106,18 +106,18 @@
       margin-bottom: 8px;
       box-sizing: unset;
 
-      .inner_ab8609 {
+      .inner_rmCN9_ {
         padding: 8px 8px 8px 12px;
       }
     }
   }
 
   // User panels (User + VC Spotify)
-  .panels__5e434 {
+  .panels_pog62O {
     bottom: -10px;
 
     // User
-    .container__37e49 {
+    .container_g6VwXp {
       background-color: var(--background-secondary-alt);
       border-bottom-left-radius: 8px;
       border-bottom-right-radius: 8px;
@@ -127,14 +127,14 @@
       border-radius: 0px;
     }
 
-    .wrapper_e131a9 {
+    .wrapper_9U6LUN {
       border-top-left-radius: 8px;
       border-top-right-radius: 8px;
     }
   }
 
   // Weird bottom fade-out
-  .sidebar__5e434:after {
+  .sidebar_pog62O:after {
     display: none;
   }
 }
