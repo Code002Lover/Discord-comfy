@@ -445,7 +445,8 @@
 :root .content_rfDq2B {
   background-color: var(--background-secondary-alt);
 }
-:root .categoryList_40yGEf, :root .inspector_1bDrGE {
+:root .categoryList_40yGEf,
+:root .inspector_1bDrGE {
   background-color: var(--background-secondary-alt);
 }
 

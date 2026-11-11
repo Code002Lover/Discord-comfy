@@ -65,13 +65,11 @@
       background-color: var(--background-primary);
     }
 
-    .group_8GP31u
-      > .item_8GP31u:not(.selected_8GP31u) {
+    .group_8GP31u > .item_8GP31u:not(.selected_8GP31u) {
       background-color: var(--background-secondary);
     }
 
-    .group_8GP31u
-      > .item_8GP31u.selected_8GP31u {
+    .group_8GP31u > .item_8GP31u.selected_8GP31u {
       background-color: var(--background-tertiary);
     }
   }

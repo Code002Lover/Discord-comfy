@@ -124,9 +124,7 @@
   }
 
   // user area pfp
-  .panels_pog62O
-    .accountPopoutButtonWrapper_g6VwXp
-    .avatar_g6VwXp {
+  .panels_pog62O .accountPopoutButtonWrapper_g6VwXp .avatar_g6VwXp {
     display: none;
     position: absolute;
     left: calc(100% + 10px);
@@ -144,9 +142,7 @@
   }
 
   // hide pfp unless text box
-  :has(.form_z_gUBg)
-    .accountPopoutButtonWrapper_g6VwXp
-    .avatar_g6VwXp {
+  :has(.form_z_gUBg) .accountPopoutButtonWrapper_g6VwXp .avatar_g6VwXp {
     display: block;
   }
 
@@ -394,7 +390,8 @@
     background-color: var(--background-secondary-alt);
   }
 
-  .categoryList_40yGEf, .inspector_1bDrGE {
+  .categoryList_40yGEf,
+  .inspector_1bDrGE {
     background-color: var(--background-secondary-alt);
   }
 }

@@ -2,18 +2,21 @@
 <summary><h3>Migrating from original theme</h3></summary>
 
 ### Using url
+
 replace the theme url with this url<br>
 `https://code002lover.github.io/Discord-comfy/comfy.theme.css`<br><br>
 
 ### Installed Locally
+
 replace `https://comfy-themes.github.io/Discord/betterdiscord/main.css`<br>
 
 with `https://code002lover.github.io/Discord-comfy/main.css`<br>
+
 </details>
 
 ---
-<br>
 
+<br>
 
 <img align="right" src="https://comfy-themes.github.io/Discord/assets/preview.png" alt="Preview" width="40%">
 
@@ -25,11 +28,12 @@ with `https://code002lover.github.io/Discord-comfy/main.css`<br>
 
   <br/>
 
-  <a href="https://gibbu.github.io/ThemePreview/?file=https://code002lover.github.io/Discord-comfy/comfy.theme.css"><strong>» Theme Preview</strong></a>
-  ・
-  <a href="https://github.com/code002lover/Discord-comfy/issues">Report an issue</a>
-  ・
-  <a href="https://discord.gg/comfy-camp-811203761619337259">Join the support server</a>
+<a href="https://gibbu.github.io/ThemePreview/?file=https://code002lover.github.io/Discord-comfy/comfy.theme.css"><strong>» Theme Preview</strong></a>
+・
+<a href="https://github.com/code002lover/Discord-comfy/issues">Report an issue</a>
+・
+<a href="https://discord.gg/comfy-camp-811203761619337259">Join the support server</a>
+
 </div>
 <br/>
 
